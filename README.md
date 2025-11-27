@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Koyel</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&reversal=false&fontSize=62&fontColor=FFFFFFFF&fontAlign=47&fontAlignY=50&rotate=0&stroke=-&desc=HI%F0%9F%91%8B,%20I%20am%20Koyel&descSize=47&descAlign=54&descAlignY=46&textBg=false&color=gradient"  />
+</div>
+
+###
+
+
+
+
+
+
+
+
+
 <h3 align="center">An aspiring Generative AI Engineer</h3>
 
 - 🔭 I’m currently working on **Development in pyhthon**
@@ -25,9 +38,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koyelbasu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
-###
+
 
