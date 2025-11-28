@@ -12,7 +12,9 @@
 
 
 
-<h3 align="center">An aspiring Generative AI Engineer</h3>
+<h2 align="center">An aspiring Generative AI Engineer
+A Generative AI Enthusiast. Curios to know about the AI Toools and how it works
+</h2>
 
 - 🔭 I’m currently working on **Development in pyhthon**
 
