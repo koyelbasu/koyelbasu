@@ -11,7 +11,6 @@
 
 
 
-
 <h2 align="center">An aspiring Generative AI Engineer
 A Generative AI Enthusiast. Curios to know about the AI Toools and how it works
 </h2>
