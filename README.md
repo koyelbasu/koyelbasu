@@ -12,16 +12,16 @@
 
 
 <h2 align="center">An aspiring Generative AI Engineer
-A Generative AI Enthusiast. Curios to know about the AI Toools and how it works
+An aspiring Backend Cloud Engineer. Curios to know about  how it works
 </h2>
 
-- 🔭 I’m currently working on **Development in pyhthon**
+- 🔭 I’m currently working on **Development in Java**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Development in Gen AI**
+- 👯 I’m looking to collaborate on **Development in Java**
 
-- 💬 Ask me about **I'm a 1st year student in Brainware University and pursuing the course B.Tech CSE(AI&ML). I'm an aspiring Gen AI Engineer.I have interest in how a AI model is built, how can we develop it**
+- 💬 Ask me about **I'm a 1st year student in Brainware University and pursuing the course B.Tech CSE(AI&ML). I'm an aspiring Backend Cloud Engineer.I have interest in how a AI model is built, how can we develop it**
 
 - 📫 How to reach me **koyelbasu240306@gmail.com**
 
