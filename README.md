@@ -23,7 +23,7 @@ An aspiring Backend Cloud Engineer. exploring how backend logic, APIs, and cloud
 
 - 💬 Ask me about **I'm a 1st year student in Brainware University and pursuing the course B.Tech CSE(AI&ML). I'm an aspiring Backend Cloud Engineer.I have interest in how backend logic, APIs, and cloud infrastructure work together**
 
-- 📫 How to reach me **koyelbasu240306@gmail.com**
+- 📫 How to reach me **koyelbasu2006@gmail.com**
 
 <h2 align="left">🌐Connect with me:</h2>
 <p align="left">
