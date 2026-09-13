@@ -15,7 +15,7 @@
 An aspiring Backend Cloud Engineer. exploring how backend logic, APIs, and cloud infrastructure come together to build scalable, reliable systems.
 </h2>
 
-- 🔭 I’m currently working on **Development in Java**
+- 🔭 I’m currently working on **Development in Javascript**
 
 - 🌱 I’m currently learning **Javascript**
 
