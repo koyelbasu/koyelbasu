@@ -17,9 +17,9 @@ An aspiring Backend Cloud Engineer. exploring how backend logic, APIs, and cloud
 
 - 🔭 I’m currently working on **Development in Java**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Development in Java**
+- 👯 I’m looking to collaborate on **Development in Javascript**
 
 - 💬 Ask me about **I'm a 1st year student in Brainware University and pursuing the course B.Tech CSE(AI&ML). I'm an aspiring Backend Cloud Engineer.I have interest in how backend logic, APIs, and cloud infrastructure work together**
 
